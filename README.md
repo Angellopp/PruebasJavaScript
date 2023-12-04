@@ -14,7 +14,7 @@ A continuación, instalamos Jasmine en nuestro proyecto.
 ```bash
 rails generate jasmine:install
 ```
-![](image.png)
+![Alt text](image.png)
 Creamos una carpeta para los fixtures y la agregamos al control de versiones.
 
 ```bash
